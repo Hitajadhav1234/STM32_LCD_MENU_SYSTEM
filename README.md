@@ -59,7 +59,7 @@ Main Menu
 
 ### Menu Navigation
 
-![Demo 2](DEMO2.png)
+![Demo 2](DEMO_2.png)
 
 ---
 ### Dashboard
