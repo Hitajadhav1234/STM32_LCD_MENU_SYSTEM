@@ -59,12 +59,12 @@ Main Menu
 
 ### Menu Navigation
 
-![Demo 1](DEMO2.png)
+![Demo 2](DEMO2.png)
 
 ---
-### Menu Navigation
+### Dashboard
 
-![Demo 1](DEMO_3.png)
+![Demo 3](DEMO_3.png)
 
 ---
 
